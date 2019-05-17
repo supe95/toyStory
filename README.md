@@ -3,5 +3,7 @@ toyStory
 
 안녕하세요 토이스토리 입니다.
 
-여기 사용되는 스타일은 어디에서 참고할 수 있을까요.??
 
+## 여기서 사용자된 wiki 파일을 makedown(md) 파일 이라고 한다는군요.
+참고하세요.
+some helps are [here](https://guides.github.com/features/mastering-markdown/)
